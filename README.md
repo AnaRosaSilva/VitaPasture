@@ -1,2 +1,0 @@
-# VitaPasture
- Agropecuaria
